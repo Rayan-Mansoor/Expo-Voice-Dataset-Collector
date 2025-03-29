@@ -1,0 +1,33 @@
+{
+  "expo": {
+    "name": "VoiceDatasetCollector",
+    "slug": "VoiceDatasetCollector",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#ffffff"
+      },
+      "package": "com.rayanmansoor.VoiceDatasetCollector"
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "19ab84ed-6b5e-4d50-9f0f-8571da135c15"
+      }
+    }
+  }
+}
